@@ -1,8 +1,8 @@
 /* Opmaak van de oude site van Sportclub De Spurt. Bewust gedateerd: dit is de site die de klant wil verbeteren. */
 
 body {
-    background-color: #ffff99;
-    font-family: "Comic Sans MS", cursive;
+    background-color: #9fedad;
+    font-family: system-ui, sans-serif;
     font-size: 13px;
 }
 
@@ -11,16 +11,17 @@ body {
     margin: 10px auto;
     padding: 10px;
     background-color: white;
-    border: 3px dashed red;
+p.outset border-style: outset;
+    
 }
 
 h1 {
-    color: blue;
+    color: black;
     text-align: center;
 }
 
 h2 {
-    color: red;
+    color: black;
     text-decoration: underline;
 }
 
@@ -31,12 +32,12 @@ h2 {
 
 .menu {
     text-align: center;
-    background-color: blue;
+    background-color: #9fedad;
     padding: 4px;
 }
 
 .menu a {
-    color: yellow;
+    color: black;
 }
 
 .voet {
@@ -44,3 +45,4 @@ h2 {
     color: gray;
     text-align: center;
 }
+
